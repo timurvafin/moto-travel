@@ -41,6 +41,21 @@
 
 **Маршрут:** Описание дороги, тип покрытия, особенности.
 
+**Карты:** [Google Maps](url) | [Яндекс Карты](url)
+
+<!-- Формат ссылок:
+Google Maps:
+https://www.google.com/maps/dir/lat1,lon1/lat2,lon2/.../latN,lonN/@center_lat,center_lon,zoomz/data=!3m1!4b1!4m2!4m1!3e0
+
+Яндекс Карты (с параметрами):
+https://yandex.ru/maps/?rtext=lat1,lon1~lat2,lon2~...~latN,lonN&rtt=auto&routes%5Bavoid%5D=unpaved%2Cpoor_condition&routes%5BtimeDependent%5D%5Btime%5D=YYYY-MM-DDTHH%3AMM%3A00
+
+Параметры Яндекс:
+- routes[avoid]=unpaved,poor_condition — избегать грунтовых и плохих дорог
+- routes[timeDependent][time] — дата и время выезда (ISO 8601)
+- rtt=auto — маршрут на авто
+-->
+
 <!-- Если есть горный участок — описать здесь -->
 **Горный участок (если есть):**
 - **Перевал/участок:** название
