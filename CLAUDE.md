@@ -189,6 +189,7 @@ moto-travel/
 - При обновлении маршрута (v2 → v3) — обновить Todoist
 - При обновлении Todoist — синхронизировать обратно в v2.md
 - Todoist MCP не поддерживает загрузку файлов — PDF бронирований прикреплять вручную
+- Todoist MCP: `find-tasks` с `searchText` может не находить задачи — искать по `sectionId`/`projectId` или использовать `fetch-object` по известному ID
 
 ## Команды Claude Code
 
