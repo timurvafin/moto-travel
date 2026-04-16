@@ -1,0 +1,16 @@
+name            = "moto-travel"
+title           = "Мото-путешествия"
+type            = "hobby"
+status          = "active"
+area            = ""
+priority        = "normal"
+visibility      = "public"
+deadline        = ""
+cadence         = ""
+tech            = []
+tags            = ["moto", "travel", "adventure", "harley"]
+related         = []
+repo            = ""
+has_own_git     = true
+todoist_project_id = "6VWWfhvm6pcJvJpM"  # 🏍️ Мото
+notes           = "Планирование мото-путешествий на Harley-Davidson. Каждая поездка — trips/<год-название>/"
